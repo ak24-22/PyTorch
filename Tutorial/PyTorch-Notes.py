@@ -10,5 +10,12 @@
 
 # When to use ML/DL and what's it good for 
 # --> Long or complex tasks, e.g., Driving a car properly
-# --> Needs Adapting, e.g., A smart thermostat that can change depending on the season
+# --> Needs adapting, e.g., A smart thermostat that can change depending on the season
 # -->  Massive datasets, e.g., Looks at 100 different dishes and identifies them
+
+# When not to use ML/DL and what's it's not good for 
+# --> Short or simple tasks, e.g., Turning lights on or off
+# --> Needs explaining, e.g., Medical diagnosis  
+# --> Flawless and 0 errors, e.g., Calculating chemotherapy dosages 
+# --> Not enough data, e.g., predicting a rare disease
+
