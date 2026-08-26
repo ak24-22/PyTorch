@@ -34,8 +34,9 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # 5. WHAT ARE NEURAL NETWORKS?
-# The term “neural network” is a mathematical model that computes and analyses data. This is used in computer science and the full term is called a deep neural network because the model has multiple layers, meaning it goes through multiple processing steps before producing an answer
+# The term “neural network” is a mathematical model that computes and analyses data. This is used in computer science and the full term is called a deep neural network because the model has multiple hidden layers, meaning it goes through multiple processing steps before producing an answer
 
-# In general these are the steps of Neural Network, Inputs the raw data this can be text, images, audio, etc... Then it's the preprocessing/Numerical encoding step which turn the raw data into numbers. THen The neural network will first input the raw data the second layer is the Hidden layer and that's were it learns the representation (Also known as patterns or features or weights) by going through each node (i.e. Network of Neurons) and outputs the data. Then comes the postprocessingRepresentation output step which are decimal numbers (also called probabilities or vectors) and the last step outputs which results in human-readable understanding 
+# In general these are the steps of Neural Network, Inputs the raw data this can be text, images, audio, etc... Then it's the Pre-Processing/Numerical Encoding step which turn the raw data into numbers. Then comes the first layer of the neural network, called Input Layer, which gets the data it got from the Pre-Processing/Numerical encoding step, the second layer is the Hidden Layer and that's were it learns the representation (Also known as patterns or features or weights) by going through each node (i.e. Network of Neurons). The last layer of the neural network is the Output Layer which passes the data in the format of decimal numbers (also called probabilities or vectors) and then goes to the next step. Then comes the Post-Processing/Representation Outputs step which outputs the results in human-readable understanding 
+
 
 
